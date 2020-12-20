@@ -1,7 +1,3 @@
-### Hi there 👋
-
- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=kpiyush04.kpiyush04)
-
 <!--
 **kpiyush04/kpiyush04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,3 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hey, I'm Piyush👋
+
+[![Twitter Badge](https://img.shields.io/badge/-@kpiyush04-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/kpiyush04)](https://twitter.com/kpiyush04) [![Linkedin Badge](https://img.shields.io/badge/-kpiyush04-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kpiyush04/)](https://www.linkedin.com/in/kpiyush04/)
+
+Nice to meet you! My name is Piyush Kumar. I'm an udergraduate and Community lead at [Developer Student Clubs - Galgotias University](https://dsc.community.dev/galgotias-university/) and mentor at [OpenMined](https://www.openmined.org).
+
+I'm passionate about Data Science. Love to talk tech and startup.
+
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=kpiyush04.kpiyush04)
